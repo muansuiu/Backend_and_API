@@ -3,6 +3,7 @@
 	"description": "This is a project that helps people to learn how a software works",
 	"keywords": [ "freecodecamp", "NodeJs","APIs"],
 	"name": "fcc-learn-npm-package-json",
+	"licence" : "UIUBD",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
